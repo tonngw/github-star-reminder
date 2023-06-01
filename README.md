@@ -4,7 +4,7 @@ Original Repo: https://github.com/Molunerfinn/github-stars-reminder
 
 Use GitHub actions to email me and tell me the count of stars in my repositories every day.
 
-It will also build a simple page for me to checkout. See: https://tonngw.com/github-stars-reminder/
+It will also build a simple page for me to checkout. See: https://tonngw.com/github-star-reminder/
 
 It' a repository for learning GitHub Actions.
 
