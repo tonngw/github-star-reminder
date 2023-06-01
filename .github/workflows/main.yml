@@ -1,4 +1,4 @@
-name: github-stars-reminder
+name: github-star-reminder
 on:
   push:
     branches:
